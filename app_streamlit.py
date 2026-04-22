@@ -473,7 +473,6 @@ with st.sidebar:
             <span class="sb-dot" style="background:#d97706"></span>INT8-QAT
         </div>
     </div>
-    <div class="sb-footer">v1.0 &nbsp;·&nbsp; Model Quantization</div>
     """, unsafe_allow_html=True)
 
 
@@ -645,7 +644,7 @@ if page == "Benchmark report":
         st.warning("Run `python scripts/run_benchmark.py` first to generate results.")
 
     st.markdown('<hr class="divider">', unsafe_allow_html=True)
-    st.markdown('<div class="footer">QuantBench &nbsp;&middot;&nbsp; Model Quantization Analysis Platform &nbsp;&middot;&nbsp; v1.0</div>', unsafe_allow_html=True)
+    st.markdown('<div class="footer">QuantBench &nbsp;&middot;&nbsp; Model Quantization Analysis Platform</div>', unsafe_allow_html=True)
 
 
 # ==============================================================================
