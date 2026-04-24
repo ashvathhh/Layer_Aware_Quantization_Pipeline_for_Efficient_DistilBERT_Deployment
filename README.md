@@ -291,6 +291,5 @@ Raw Text (SST-2)
 
 ## Authors
 
-Saketh Kuppili (002014840) | Ashvath Cheppalli (002500670)
+Saketh Kuppili | Ashvath Cheppalli
 
-CS 5130 — Applied Programming and Data Processing for AI
